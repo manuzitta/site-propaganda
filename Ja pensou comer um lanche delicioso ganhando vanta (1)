@@ -1,22 +1,20 @@
-Ja pensou comer um lanche delicioso ganhando vantagens e saindo com a barriga cheia? Comprando em nosso site, agora voce pode! acesse:
-
-                              www.MasterKing.com.br
-
-Consulte nossas melhores promoçoes e fique por dentro dos lançamentos de combos da semana!
-
-combo 1 - 2 X-Bacon
-          2 L de Refrigerante
-          R$ 42,00
-
-combo 2 - 2 X-Casa
-          3 X-Egg ou X-Bacon
-          +frete grátis
-          R$ 65,00
-
-combo 3 - 2 X- Salada
-          2 Refri Lata
-          3 Molhos especiais 
-          R$40,00
-
-              Para mais informaçoes e opçoes de comprar acesse:
-                              www.MasterKing.com.br
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+    <header>
+        <h1> vai ser uma imagem aqui </h1>
+        <ul>
+            <li>escola</li>
+            <li>estudante</li>
+        </ul>  
+    </header>
+    
+</body>
+</html>
